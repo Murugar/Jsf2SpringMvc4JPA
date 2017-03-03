@@ -1,2 +1,2 @@
 # Jsf2SpringMvc4JPA
-Spring MVC4 JSF2 JPA PostGreSQL
+Spring MVC4 JSF2 JPA MySQL
